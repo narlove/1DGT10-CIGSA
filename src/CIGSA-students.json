@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "firstName": "John",
+            "surname": "Kennedy",
+            "studentId": "80085",
+            "balance": "7",
+            "privileges": [
+                "Excursions",
+                "Book burrowing",
+                "School camp"
+            ]
+        },
+        {
+            "firstName": "Speedy",
+            "surname": "Gonzales",
+            "studentId": "11516",
+            "balance": "15",
+            "privileges": [
+                "Excursions",
+                "Book burrowing",
+                "School camp",
+                "Mobile phone access"
+            ]
+        },
+        {
+            "firstName": "Jennifer",
+            "surname": "Kennedy",
+            "studentId": "58008",
+            "balance": "3",
+            "privileges": [
+                "Excursions"
+            ]
+        },
+        {
+            "firstName": "James",
+            "surname": "Kennedy",
+            "studentId": "800815",
+            "balance": "10",
+            "privileges": [
+                "Excursions",
+                "Book burrowing",
+                "School camp",
+                "Mobile phone access"
+            ]
+        }
+    ]
+}
